@@ -3,7 +3,7 @@
 #### A local web app to keep a record of expenses.
 
 ### **Run Example**
-![MyImage]b546f140-4472-4cc3-8363-f836d8f51af4.gif
+![MyImage](b546f140-4472-4cc3-8363-f836d8f51af4.gif)
 
 ### **Features**
 1. Adding new epense.
